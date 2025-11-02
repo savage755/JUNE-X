@@ -15,7 +15,7 @@
 ---
 1. FORK JUNE MD REPO
 <div align="center">
-  <a href="https://github.com/vinpink2/June-md/fork">
+  <a href="https://github.com/vinpink2/savage-md/fork">
     <img src="https://img.shields.io/badge/Fork%20Savage %20Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue" alt="FORK REPO"/>
   </a>
 </div>
