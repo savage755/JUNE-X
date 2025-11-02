@@ -1,4 +1,4 @@
-# 🌌JUNE MD
+# 🌌 SAVAGE MD
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
@@ -8,7 +8,7 @@
 
 <div align="center"> 
   <a href=""> 
-    <img src="https://files.catbox.moe/vqb7qx.jpg" alt="JUNE MD" height="300"> 
+    <img src="https://files.catbox.moe/vqb7qx.jpg" alt="SAVAGE MD" height="300"> 
   </a> 
 </div>
 
@@ -23,7 +23,7 @@
 2. DOWNLOAD BOT ZIP  
 <p align="center">
     <a href="https://codeload.github.com/vinpink2/JUNE-X/zip/refs/heads/main" target="_blank">
-        <img alt="Download zip" src="https://img.shields.io/badge/JUNE MD ZIP%20 FILE-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=purple"/>
+        <img alt="Download zip" src="https://img.shields.io/badge/SAVAGE MD ZIP%20 FILE-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=purple"/>
     </a>
 </p>
 
